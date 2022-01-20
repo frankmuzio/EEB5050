@@ -115,4 +115,4 @@ mean(species$Latitude) #17.5833
 # use tapply()
 tapply(X=flora$Continent, INDEX = list(flora$Flora), FUN=median)
 
-
+d
